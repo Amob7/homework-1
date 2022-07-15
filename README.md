@@ -1,4 +1,4 @@
-# < homework-1 >
+# < Accesibility in Http and CSS >
 
 In this project we were given a starter code for a website and were responsible to make css and html have better accessiblity.
 
